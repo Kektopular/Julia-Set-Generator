@@ -1,5 +1,5 @@
 # Julia-Set-Generator
-Just a basic program written in Python and using TensorFlow, for generating and rendering Julia sets.
+Just a basic program written in Python and using TensorFlow, for generating and rendering Julia sets. It collects a complex number for c in z_n+1 = z^2 + c with user input, which defines the set that is generated. You can easily change the domain, range, resolution, and color gradient through simple modifications of the code as well.
 
 <br>
 
