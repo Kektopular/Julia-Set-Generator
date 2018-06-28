@@ -155,7 +155,7 @@ for i in range(1,101):
             run_metadata = run_metadata)
     
     
-    # THIS STUFF IS COMMENTED OUT TO SPEED UP EXECUTION SPEED, BUT CAN BE USED IF DESIRED
+    # THIS STUFF IS COMMENTED OUT TO SPEED UP EXECUTION TIME, BUT CAN BE USED IF DESIRED
     """
     # Add the experiment op runtime stats to the TB event file
     writer.add_run_metadata(run_metadata, "exp_ops_" + str(i))
