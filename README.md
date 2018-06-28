@@ -9,7 +9,7 @@ Some quick notes:
   
   The LOGDIR used in the code will have to be changed so that data can be written to disk on your setup.
 
-  I found that the histogram summaries in TensorBoard are useful for designing color gradient functions, as can be seen in the images.
+  I found that the histogram summaries in TensorBoard are useful for designing color gradient functions, as can be seen further down.
 
 <br><br>
 
