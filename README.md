@@ -19,7 +19,7 @@ A couple of Julia sets that were generated
 
 <br><br>
 
-The color gradient functions used for coloring these sets
+The color functions used for coloring these sets (RGB)
 ![Color Gradient](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Color%20Gradient%20Functions.png?raw=true)
 
 <br><br>
