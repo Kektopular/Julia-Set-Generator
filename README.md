@@ -29,10 +29,10 @@ Visualization of the computational graph with TensorBoard
 
 <br><br>
 
-Histogram summaries of the divergence count and RGB values
+Histogram summaries of the divergence count and RGB values for the second set
 ![Histograms](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/TensorBoard%20Histograms.png?raw=true)
 
 <br><br>
 
-The Julia sets drawn as TensorBoard image summaries
+The sets drawn as TensorBoard image summaries
 ![Images](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Tensorboard%20Images.png?raw=true)
