@@ -13,7 +13,7 @@ Some quick notes:
 
 <br><br>
 
-A couple Julia Sets
+A couple Julia Sets that were created
 ![0.274 0.0063i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.274%200.0063i.jpg?raw=true)
 ![0.4 0.071i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.4%200.071i.jpg?raw=true)
 
