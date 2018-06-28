@@ -283,7 +283,7 @@ writer.flush()
 # Convert the divergence count matrix into a numpy array (for setting max = 0)
 div_count_np = np.array(session.run(div_count_reshape))
 
-# Duplicate the first cyclic color layer, and set the max values to 0
+# Set the contained values to 0 (Black)
 div_count_red = np.array(session.run(red_v_shift))
 div_count_red[div_count_np == div_count_np.max()] = 0
 
