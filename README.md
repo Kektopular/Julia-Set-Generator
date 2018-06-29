@@ -14,6 +14,7 @@ Some quick notes:
 <br><br>
 
 Some of my personal favorites that were made visible thanks to this program
+<br>
 -0.764 + 0.12i
 ![-0.764 0.12i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.764%200.12i.jpg?raw=true)
 -0.835 + 0.22i
@@ -26,6 +27,7 @@ Some of my personal favorites that were made visible thanks to this program
 <br><br>
 
 A couple more sets that were generated, and the color gradient used for coloring them
+<br>
 0.274 + 0.0063i
 ![0.274 0.0063i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.274%200.0063i.jpg?raw=true)
 0.4 + 0.071i
