@@ -13,7 +13,7 @@ Some quick notes:
 
 <br><br>
 
-Some of my personal favorites that were generated using this program
+Some of my personal favorites that were made visible thanks to this program
 ![-0.764 0.12i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.764%200.12i.jpg?raw=true)
 ![-0.835 0.22i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.835%200.22i.jpg?raw=true)
 ![0.0 0.74i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.0%200.74i.jpg?raw=true)
