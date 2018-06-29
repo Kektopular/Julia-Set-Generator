@@ -14,15 +14,21 @@ Some quick notes:
 <br><br>
 
 Some of my personal favorites that were made visible thanks to this program
+-0.764 + 0.12i
 ![-0.764 0.12i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.764%200.12i.jpg?raw=true)
+-0.835 + 0.22i
 ![-0.835 0.22i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.835%200.22i.jpg?raw=true)
+0.0 + 0.74i
 ![0.0 0.74i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.0%200.74i.jpg?raw=true)
+0.285 + 0.012i
 ![0.285 0.012i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.285%200.012i.jpg?raw=true)
 
 <br><br>
 
-A couple more Julia sets that were generated, and the color gradient used for coloring them
+A couple more sets that were generated, and the color gradient used for coloring them
+0.274 + 0.0063i
 ![0.274 0.0063i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.274%200.0063i.jpg?raw=true)
+0.4 + 0.071i
 ![0.4 0.071i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.4%200.071i.jpg?raw=true)
 ![Color Gradient](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Color%20Gradient%20Functions.png?raw=true)
 
