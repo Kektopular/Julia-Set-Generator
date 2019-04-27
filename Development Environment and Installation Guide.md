@@ -22,7 +22,7 @@ Installation Instructions:
 
     4. Install Python
 	      -At the first screen, select "Add Python 3.7 to PATH"
-	       -Select "Customize Installation", leave everything else default.
+	      -Select "Customize Installation", leave everything else default.
 
     5. Install/Update Python Packages
 	      -Update pip: python -m pip install -U pip
