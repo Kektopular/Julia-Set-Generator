@@ -30,7 +30,7 @@ Installation Instructions:
 	      -Install Pillow: python -m pip install -U pillow
 	      -Install TensorFlow-GPU: python -m pip install -U tensorflow-gpu
 
-    6. Fix the missing cupti64_100.dll issue.
+    6. Fix the missing cupti64_100.dll issue
 	      -Copy cupti64_100.dll from: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64
 	      -Paste it in: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\bin
 	      -Copy cupti.lib from: C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.0\extras\CUPTI\libx64
