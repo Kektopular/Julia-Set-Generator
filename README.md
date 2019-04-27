@@ -1,50 +1,55 @@
-# Julia-Set-Generator
-Just a basic program written in Python and using TensorFlow, for generating and rendering Julia sets. It collects a complex number for c in z_n+1 = z^2 + c with user input, which defines the set that is generated. You can easily change the domain, range, resolution, and color gradient through simple modifications of the code as well.
+# Julia Set Generator (TensorFlow)
 
-<br>
+Hi! This is a basic program written in Python and using TensorFlow, for generating and rendering Julia sets. While I was first learning Python, I came across TensorFlow and TensorBoard and thought that they were interesting looking tools. I am also quite fond of visualizations, so I thought that this would be a fun thing to make, and it was!
+
+I originally created this program in June 2018, but in April 2019 I decided to get it working again and upload it fresh to GitHub.
+
+It collects a complex number for c in z_(n+1)=z_n^2+c with user input, which defines the set that is generated. You can easily change the domain, range, resolution, and color gradient through simple modifications of the code as well.
+
+First, here is the Development Environment and Installation Guide:
+    https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Development%20Environment%20and%20Installation%20Guide.md
+
+Then, here is a short Quick Start Guide:
+    https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Quick%20Start%20Guide.md
 
 Some quick notes:
-
   I suspect that the CPU-only version of TensorFlow will be painfully slow, so suggest using the GPU version.
-  
-  The LOGDIR used in the code will have to be changed so that data can be written to disk on your setup.
 
-  I found that the histogram summaries in TensorBoard are useful for designing color gradient functions, as can be seen further down.
+  The LOG_DIR and IMG_DIR used in the code will have to be changed so that data can be written to disk on your setup.
+
 
 <br><br>
 
-Some of my personal favorites that were made visible thanks to this program
+Some of my personal favorites that were made visible using this program:
 <br>
--0.764 + 0.12i
-![-0.764 0.12i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.764%200.12i.jpg?raw=true)
 -0.835 + 0.22i
-![-0.835 0.22i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%20-0.835%200.22i.jpg?raw=true)
-0.0 + 0.74i
-![0.0 0.74i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.0%200.74i.jpg?raw=true)
+![-0.835 + 0.22i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/-0.835%20+%200.22i.jpg?raw=true)
 0.285 + 0.012i
-![0.285 0.012i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.285%200.012i.jpg?raw=true)
+![0.285 + 0.012i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.285%20+%200.012i.jpg?raw=true)
+-0.764 + 0.1185i
+![-0.764 + 0.1185i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/-0.764%20+%200.1185i.jpg?raw=true)
 
 <br><br>
 
-A couple more sets that were generated, and the color gradient used for coloring them
+A couple more sets that were generated, and the color channel mapping functions used for coloring them:
 <br>
 0.274 + 0.0063i
-![0.274 0.0063i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.274%200.0063i.jpg?raw=true)
+![0.274 + 0.0063i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.274%20+%200.0063i.jpg?raw=true)
 0.4 + 0.071i
-![0.4 0.071i](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Julia%20Set%200.4%200.071i.jpg?raw=true)
-![Color Gradient](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Color%20Gradient%20Functions.png?raw=true)
+![0.4 0.071i](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/0.4%20+%200.071i.jpg?raw=true)
+![Color Channel Mapping Functions:](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Color%20Channel%20Mapping%20Functions%20-%20The%20Blue.png?raw=true)
 
 <br><br>
 
-Visualization of the computational graph with TensorBoard
-![Computational Graph](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Computational%20Graph.png?raw=true)
+Visualization of the computational graph with TensorBoard:
+![Computational Graph Visualization](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Computational%20Graph%20Visualization.png?raw=true)
 
 <br><br>
 
-Histogram summaries of the divergence count and RGB values for the second set
-![Histograms](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/TensorBoard%20Histograms.png?raw=true)
+TensorBoard Histogram Summaries:
+![Histogram Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Histogram%20Summaries.png?raw=true)
 
 <br><br>
 
-The sets drawn as TensorBoard image summaries
-![Images](https://github.com/Kektopular/Julia-Set-Generator/blob/master/Example%20Images/Tensorboard%20Images.png?raw=true)
+TensorBoard Image Summaries:
+![Image Summaries](https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Images/Image%20Summaries.png?raw=true)
