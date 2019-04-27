@@ -1,14 +1,14 @@
 Development Environment:
 
     Windows 10 Pro, Version 1809, Build 17763.437
-	  CUDA 10.0.130_411.31
-	  cuDNN 7.5.1.10 for CUDA 10.0
-	  Nvidia GeForce Ready Game Driver, Version 430.39
-	  Python 3.7.3 (64-bit)
-		    pip 19.1
-		    numpy 1.16.3
-		    Pillow 6.0.0
-		    TensorFlow-GPU 1.13.1
+    CUDA 10.0.130_411.31
+    cuDNN 7.5.1.10 for CUDA 10.0
+    Nvidia GeForce Ready Game Driver, Version 430.39
+    Python 3.7.3 (64-bit)
+        pip 19.1
+        numpy 1.16.3
+        Pillow 6.0.0
+        TensorFlow-GPU 1.13.1
 
 
 Installation Instructions:
