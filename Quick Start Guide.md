@@ -1,8 +1,8 @@
 To generate and save a Julia Set:
 
-	  1. Select a directory on your computer to save the TensorBoard log data, and set this directory on Line 23.
+	  1. Select a directory on your computer to save the TensorBoard log data, and set this directory on Line 24.
 
-	  2. Select a directory on your computer to save the generated Julia Set images, and set this directory on Line 28.
+	  2. Select a directory on your computer to save the generated Julia Set images, and set this directory on Line 27.
 
 	  3. Run "Julia Set Generator (TensorFlow).py"
 
