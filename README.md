@@ -6,19 +6,19 @@ I originally created this program in June 2018, but in April 2019 I decided to g
 
 It collects a complex number for c in z_(n+1)=z_n^2+c with user input, which defines the set that is generated. You can easily change the domain, range, resolution, and color gradient through simple modifications of the code as well.
 
-First, here is the Development Environment and Installation Guide
+First, here is the Development Environment and Installation Guide:
 
     https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Development%20Environment%20and%20Installation%20Guide.md
 
-Then, here is a short Quick Start Guide
+Then, here is a short Quick Start Guide:
 
     https://github.com/RealTimeChris/Julia-Set-Generator-TensorFlow/blob/master/Quick%20Start%20Guide.md
 
-Some quick notes
+Some quick notes:
 
-  I suspect that the CPU-only version of TensorFlow will be painfully slow, so suggest using the GPU version.
+    I suspect that the CPU-only version of TensorFlow will be painfully slow, so suggest using the GPU version.
 
-  The LOG_DIR and IMG_DIR used in the code will have to be changed so that data can be written to disk on your setup.
+    The LOG_DIR and IMG_DIR used in the code will have to be changed so that data can be written to disk on your setup.
 
 <br>
 
