@@ -1,6 +1,6 @@
 # Julia Set Generator (TensorFlow)
 
-Hi! This is a basic program written in Python and using TensorFlow, for generating and rendering Julia sets. While I was first learning Python, I came across TensorFlow and TensorBoard and thought that they were interesting looking tools. I am also quite fond of visualizations, so I thought that this would be a fun thing to make, and it was!
+This is a basic program written in Python and using TensorFlow, for generating and rendering Julia sets. While I was first learning Python, I came across TensorFlow and TensorBoard and thought that they were interesting looking tools. I am also quite fond of visualizations, so I thought that this would be a fun thing to make, and it was!
 
 I originally created this program in June 2018, but in April 2019 I decided to get it working again and upload it fresh to GitHub.
 
