@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Julia Set Generator (TensorFlow)
-June 2018 (Updated: April 2019)
+May 2018 (Updated April 2019)
 Chris M
 https://github.com/RealTimeChris
 """
