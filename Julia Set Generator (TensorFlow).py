@@ -2,7 +2,7 @@
 """
 Julia Set Generator (TensorFlow)
 June 2018 (Updated: April 2019)
-Real-Time Chris
+Chris M
 https://github.com/RealTimeChris
 """
 
